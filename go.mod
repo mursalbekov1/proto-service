@@ -1,4 +1,4 @@
-module proto
+module github.com/mursalbekov1/proto-service
 
 go 1.20
 
