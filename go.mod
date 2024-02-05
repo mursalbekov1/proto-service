@@ -1,6 +1,6 @@
 module github.com/mursalbekov1/proto-service
 
-go 1.20
+go 1.21.6
 
 require (
 	google.golang.org/grpc v1.58.0
